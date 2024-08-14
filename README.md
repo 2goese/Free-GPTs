@@ -1,4 +1,4 @@
-# GPTs Prompts And Jailbreaks
+# Prompts & Jailbreaks
 
 - [2024 May Update](./2024-May-Update.md)
 - [Programming](./Programming.md)
